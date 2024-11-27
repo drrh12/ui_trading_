@@ -4,7 +4,7 @@ import { TradingHeader } from "./TradingHeader";
 import { PairSelector } from "./PairSelector";
 import { ChartSection } from "./ChartSection";
 import { Market } from "./Market/Market";
-import { Trades } from "./Trades/Trades";
+import Trades from "./Trades/Trades";
 import Depth from "./Depth/Depth";
 import Book from "./Book/Book";
 
